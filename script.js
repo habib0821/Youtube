@@ -9,6 +9,8 @@ function makeBubble() {
         clutter += `<div class="bubble">${randomNo}</div>`;
     }
     document.querySelector(".pbottom").innerHTML = clutter;
+    
+    
 }
 
 function runTimer() {
