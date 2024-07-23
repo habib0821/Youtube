@@ -44,7 +44,7 @@ document.querySelector(".pbottom").addEventListener("click", function (details) 
 })
 
 makeBubble();
-// runTimer();
+runTimer();
 getNewHit();
 increaseScore();
 
